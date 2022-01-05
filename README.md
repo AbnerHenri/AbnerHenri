@@ -5,7 +5,6 @@
 <br>
 
 - 🛠 Atualmente aluno do curso do ProgramadorBr
-- 📣 Pergunte-me sobre React & NodeJS
 - 🧰 Em busca de uma vaga como Dev Júnior
 - ❤ Aprender
 
